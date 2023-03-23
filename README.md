@@ -1,0 +1,2 @@
+# cmtest
+CM Test Submodule
